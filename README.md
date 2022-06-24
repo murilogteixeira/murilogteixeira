@@ -12,8 +12,5 @@ Oi 👋! Meu nome é Murilo e eu sou Desenvolvedor iOS no Banco BTG Pactual.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murilogteixeira&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murilogteixeira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=murilogteixeira&icon=0&color=0)](https://visitcount.itsvg.in)
